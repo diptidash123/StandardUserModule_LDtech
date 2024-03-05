@@ -1,0 +1,137 @@
+.header {
+  color: red;
+  font-weight: bold;
+}
+#tablerow1,#tablerow2,#tablerow3,#tablerow4,#tablerow5,#tablerow6,#tablerow7{
+  /* background-color: #35bff4; */
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+.imagelogo {
+  height: 30px;
+  width: 120px;
+  margin-left: 1rem;
+}
+.centered1 {
+  /* border: 2px solid black; */
+  padding: 10px 3px;
+  margin: 6px 4px;
+  width: 368px;
+  height: 262px;
+}
+/* .centered2
+{
+    border: 2px solid black;
+    padding: 10px 3px;
+    margin: 1px 1081px;
+    width: 368px;
+    height: 141px;
+} */
+.centered2 {
+  /* border: 2px solid black; */
+  position: absolute;
+  right: 15px;
+  width: 318px;
+  height: 275px;
+  /* border: 3px solid #040404; */
+  margin-top: -283px;
+}
+.Home_Button {
+  margin: 13px 191px;
+  margin-bottom: 13px;
+  height: 34px;
+  width: 120px;
+  font-size: bold;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+.weekdate {
+  width: 174px;
+  height: 24px;
+}
+.align {
+  width: 124px;
+}
+.align1 {
+  width: 124px;
+}
+.ApprovaLButton {
+    height: 42px;
+    width: 117px;
+    border-radius: 0px;
+    font-weight: bold;
+    border: none;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+.ApprovaLButton:hover
+{
+    background-color: #4b5cf6;
+    border: 2px solid black;
+}
+.row_data_information {
+  padding: 1px 32px;
+}
+/* .Totaltimebutton {
+    padding: 14px 735px;
+} */
+#totaltimebutton_lastcontainer {
+  width: 100px;
+  height: 23px;
+}
+.alignleft {
+  margin: 2px 23px;
+}
+#homeclick {
+    margin: 14px 191px;
+    background-color: #35bff4;
+    border: none;
+}
+#homeclick
+{
+    cursor: pointer;
+}
+#homeclick:hover
+{
+  background-color: #4b5cf6;
+  border: 2px solid black;
+}
+.backgroundimage_graycolor {
+  background-color: #a2a4a4;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+/* #Timeapprovalstatus
+{
+    height: 10px;
+    width: 10px;
+    margin: 1px 1px;
+    padding: 10px 5px;
+} */
+.sizeadjustbale
+{
+    height: 37px;
+}
+/* #tablerow6,#tablerow7
+{
+    background-color: #9e9292;
+} */
+.sizeadjustbale
+{
+    background-color: #9e9292;
+    border: none;
+    cursor: pointer;
+}
+.sizeadjustbale:hover
+{
+   background-color: #776d6d;
+}
+.table_headings_first_row_alignment
+{
+  
+  padding-left: 3.9%;
+
+}

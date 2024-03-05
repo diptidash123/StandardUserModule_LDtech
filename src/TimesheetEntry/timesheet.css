@@ -1,0 +1,38 @@
+/* .abc #a2{
+  width: 30vh;
+  height: 30px;
+} */
+/* style={{ display: "flex", marginBottom: "6px" }} */
+.col-6 h1{
+  font-size: small;
+  gap: 2px;
+}
+
+.heading {
+  color: red;
+}
+
+.col-3 h1, .col-3 h2{
+  font-size: small;
+}
+
+/* styles.css */
+.timesheet-entry {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.cell {
+  flex: 1;
+  padding: 3px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}

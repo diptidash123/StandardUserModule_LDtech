@@ -1,0 +1,67 @@
+.abc #a2{
+  width: 119px;
+  height: 30px;
+}
+.col-6 h1{
+  font-size: small;
+  gap: 2px;
+}
+ 
+.heading {
+  color: red;
+}
+ 
+.col-3 h1, .col-3 h2{
+  font-size: small;
+}
+ 
+/* styles.css */
+.timesheet-entry {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+ 
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+ 
+.cell {
+  flex: 1;
+  padding: 3px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+.homebutton_right {
+  margin: 1px 1118px;
+  padding: 1px 3px;
+  float: right;
+  color: black;
+  font-weight: bold;
+  
+}
+.home_button_ele {
+  color: black;
+  font-weight: bold;
+  background-color: #3dbcff;
+  cursor: pointer;
+  border: none;
+}
+.home_button_ele:hover {
+  background-color: #2256f3;
+  border: 2px solid black;
+}
+.input-group-text
+{
+  height: 40px;
+  border-radius: 0px;
+}
+
+.homeee:hover{
+  background-color: #2256f3;
+  border: 2px solid black;
+
+}
